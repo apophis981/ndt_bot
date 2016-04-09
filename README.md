@@ -1,3 +1,3 @@
-# nxt_bot
-A bot that impersonates Neil deGrasse Tyson tweets
-Usage: python markov_chain.py
+# ndt_bot
+A bot that impersonates Neil DeGrasse Tyson tweets
+Usage: python neiltyson_bot.py
