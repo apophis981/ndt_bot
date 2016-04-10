@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import tweepy
 from auth import TwitterAuth
 from markov_chain import markov
